@@ -13,13 +13,6 @@ public class PlayerMove : MonoBehaviour
     {
         anim = GetComponent<Animator>();
     }
-    void Flip()
-    {
-        facingRight = !facingRight;
-        Vector3 theScale = transform.localScale;
-        theScale.x *= -1;
-        transform.localScale = theScale;
-    }
     // Update is called once per frame
     void Update()
     {
@@ -34,6 +27,12 @@ public class PlayerMove : MonoBehaviour
         }
 
         transform.position = Vector3.MoveTowards(transform.position, targetPosition, Time.deltaTime * 3);
+	void Flip()
+	{
+			Vector3 theScale = transform.localScale;
+			theScale.x *= -1;
+			transform.localScale = theScale;
+		}
         
 
 
