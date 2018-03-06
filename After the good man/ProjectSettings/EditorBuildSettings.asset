@@ -4,4 +4,34 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/prototype.unity
+    guid: 69e3ca5358b72614e85a79cd02aa822c
+  - enabled: 1
+    path: Assets/Scene/next scene.unity
+    guid: 4cc905c61899dee46b12e3d070a3c35b
+  - enabled: 0
+    path: Assets/Scene/Quick time.unity
+    guid: 72cb318ab36ff014bb4b69b1ba998c21
+  - enabled: 0
+    path: Assets/Scene/root 1.unity
+    guid: 3a41fdbc713cb724dbbed9243d2d1ab1
+  - enabled: 1
+    path: Assets/Scene/root 2.unity
+    guid: 913bff108d8b97c49982f37c95e5f1f5
+  - enabled: 0
+    path: Assets/Scene/root 3.unity
+    guid: 22977bac2614d1f498935852546eb6fe
+  - enabled: 1
+    path: Assets/Scene/Bed room.unity
+    guid: 1835d3ed9473b854ca223bf8c7ad1441
+  - enabled: 1
+    path: Assets/Scene/choice 1.unity
+    guid: 6bd7a0c9975f74d42a060d9be7a0e7e6
+  - enabled: 1
+    path: Assets/Scene/bed room2.unity
+    guid: 82e1db06cd8b5e64e87339e17111c4ba
+  - enabled: 1
+    path: Assets/Scene/hallway2(prototype).unity
+    guid: bfe913cebe19a1044ba850ca7108410f

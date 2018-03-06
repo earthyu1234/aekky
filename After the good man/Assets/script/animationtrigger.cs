@@ -18,11 +18,11 @@ public class animationtrigger : MonoBehaviour
     {
         speed = (transform.position - lastPosition).magnitude;
         lastPosition = transform.position;
-        if (speed > 0.01)
+        if (speed > 0.008)
         {
             anim.SetBool("Walking", true);
         }
-        if (speed < 0.005)
+        if (speed < 0.002)
         {
             anim.SetBool("Walking", false);
         }

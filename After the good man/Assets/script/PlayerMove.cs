@@ -8,7 +8,6 @@ public class PlayerMove : MonoBehaviour
     Animator anim;
     int walkHash = Animator.StringToHash("Walk");
     bool facingRight = false;
-    bool Walking = false;
     private void Start()
     {
         anim = GetComponent<Animator>();
@@ -22,8 +21,7 @@ public class PlayerMove : MonoBehaviour
 
             anim.SetTrigger(walkHash);
             targetPosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-            anim.SetBool("Walking", true);
-
+           
         }
 
 

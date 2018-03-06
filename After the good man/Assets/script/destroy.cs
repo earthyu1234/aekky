@@ -2,7 +2,8 @@
 using System.Collections;
 
 public class destroy : MonoBehaviour {
-	void OnMouseDown() {
-		Destroy(gameObject);
-	}
+	public void OnTriggerEnter2D()
+    {
+        Destroy(gameObject);
+    }
 }
