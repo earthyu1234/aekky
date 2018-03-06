@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -9,7 +10,12 @@ public class collectobject : MonoBehaviour {
 
 	void OnTriggerEnter()
 	{
-		Instantiate(Prefab, inventory.position)
+        Instantiate(Prefab, inventory.position);
 	}
+
+    private void Instantiate(GameObject prefab, Vector3 position)
+    {
+        throw new NotImplementedException();
+    }
 }
 

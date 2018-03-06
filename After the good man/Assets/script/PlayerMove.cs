@@ -13,30 +13,37 @@ public class PlayerMove : MonoBehaviour
     {
         anim = GetComponent<Animator>();
     }
-    // Update is called once per frame
+    
     void Update()
     {
-        
+
         if (Input.GetKeyDown(KeyCode.Mouse0))
         {
-            
+
             anim.SetTrigger(walkHash);
             targetPosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
             anim.SetBool("Walking", true);
-            
+
         }
 
-        transform.position = Vector3.MoveTowards(transform.position, targetPosition, Time.deltaTime * 3);
-	void Flip()
-	{
-			Vector3 theScale = transform.localScale;
-			theScale.x *= -1;
-			transform.localScale = theScale;
-		}
-        
 
+        transform.position = Vector3.MoveTowards(transform.position, targetPosition, Time.deltaTime * 5);
+        Vector3 theScale = transform.localScale;
+        Vector3 pos = new Vector3(Input.mousePosition.x, Input.mousePosition.y, 0);
+        float WorldXPos = Camera.main.ScreenToWorldPoint(pos).x; 
 
+        if (WorldXPos > gameObject.transform.position.x)
+        {
+            theScale.x = 1;
+            transform.localScale = theScale;
+        }
+
+        else
+        {
+            theScale.x = -1;
+            transform.localScale = theScale;
+        }
     }
-
    
+
 }
