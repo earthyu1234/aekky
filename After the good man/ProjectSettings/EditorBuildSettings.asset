@@ -11,3 +11,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/The change.unity
     guid: aa884079c197146d1980f912ddca1116
+  - enabled: 1
+    path: Assets/Quicktime.unity
+    guid: ee00cbf0209c04dceaa4e4fa507ccbd7
+  - enabled: 1
+    path: Assets/Root1.unity
+    guid: 2ddede9c715f94ff3885dcf78a96136c
+  - enabled: 1
+    path: Assets/Root2.unity
+    guid: e8f7ed3b0d6ce4ad2889b1b69382615d
+  - enabled: 1
+    path: Assets/Root3.unity
+    guid: a16c5bc537d7743bcb0295b193df57fc
