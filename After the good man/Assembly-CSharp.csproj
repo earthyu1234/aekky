@@ -53,6 +53,7 @@
   <ItemGroup>
      <Compile Include="Assets\art\script\FreezeZ.cs" />
      <Compile Include="Assets\art\script\PlayerMove.cs" />
+     <Compile Include="Assets\CountDownTime.cs" />
      <Compile Include="Assets\ffff.cs" />
      <Compile Include="Assets\HAndddddd.cs" />
      <Compile Include="Assets\LevelManager.cs" />
