@@ -1,0 +1,4 @@
+PG;You love him so much right?;8;R
+GF;I can explain this! I am sorry!;5;L
+PG;I had enough.;8;R
+Player;I HAD ENOUGH.:scene,22

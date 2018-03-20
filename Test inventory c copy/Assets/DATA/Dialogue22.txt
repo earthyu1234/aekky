@@ -1,0 +1,6 @@
+PG;1 year ago.;8;R
+GF;Today was fun!;5;L
+PG;I hope we can come back to this place again together.;8;R
+GF;Of course we will. I love you!;5;L
+PG;...................................;6;R
+Player;........:scene,23
