@@ -1,0 +1,7 @@
+GF;Hey what's up;0;L
+LO;Nothing much man;0;R
+GF;Oh that's cool;1;L
+Player;Restart:line,0;Continue:line,4
+GF;This is a test;2;L
+LO;Test test test test;2;R
+Player;Yes:scene,2
