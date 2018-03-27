@@ -1,0 +1,6 @@
+GF; I miss you so much!;5;L
+GF;Let us meet today.;5;L
+LO;Your boyfriend?;4;L
+GF;Do not worry he said he is not going to come back today.;5;L
+PG;..............;6;R
+Player;Continue:scene,12
