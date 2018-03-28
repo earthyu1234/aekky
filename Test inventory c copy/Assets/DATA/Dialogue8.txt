@@ -1,7 +1,8 @@
-LO;He is so innocent.;2;L
-GF;Right? Remember the time I said that you were just a friend and he believes it? I wanna laugh.;2;L
-LO;He trusts everything you said huh...;0;L
-GF;That is why up until now he does not know anything about our relationship.;0;L
-GF;He thought that I was busy doing the project so I can not hang out with him. How pure.;0;L
-GF;But you know what, I am going to break up with him so that we do not have to hide.;2;L
+LO;*hear a voice from other side of the door*;4;L
+LO;He is so innocent.;4;L
+GF;Right? Remember the time I said that you were just a friend and he believes it? I wanna laugh.;5;L
+LO;He trusts everything you said huh...;4;L
+GF;That is why up until now he does not know anything about our relationship.;5;L
+GF;He thought that I was busy doing the project so I can not hang out with him. How pure.;5;L
+GF;But you know what, I am going to break up with him so that we do not have to hide.;5;L
 Player;Continue:scene,9

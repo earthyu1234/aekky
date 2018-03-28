@@ -7,4 +7,4 @@ PG;I may be innocent but not stupid. Enough with your excuse!;4;R
 GF;You do not have to be harsh like that!;3;L
 PG;......!;6;R
 LO;Insulting your girlfriend huh? A kid like you does not deserve her in the first place.;1;L
-Player;>> Let them be.:scene,20;>> i can not forgive you!:scene,19
+Player;What did you say?:scene,27
