@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/3 person ver_/scene test ver moveing.unity
+  isLoaded: 1
+  isActive: 1
