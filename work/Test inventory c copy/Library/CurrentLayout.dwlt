@@ -108,7 +108,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 492}
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 1
-  controlID: 10
+  controlID: 115
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -133,7 +133,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 492}
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 11
+  controlID: 116
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -182,7 +182,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 492}
   m_MaxSize: {x: 10004, y: 14042}
   vertical: 1
-  controlID: 65
+  controlID: 72
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -371,28 +371,28 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 1c81feff
-    m_LastClickedID: -98020
-    m_ExpandedIDs: 1aeeffffc6efffff06f8ffff98fbffff00000000802d0000
+    m_SelectedIDs: 9a290000
+    m_LastClickedID: 0
+    m_ExpandedIDs: e6ecffffbaf6ffff92f7ffff9efbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Story Text
-      m_OriginalName: Story Text
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 11616
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 7}
     m_SearchString: 
   m_ExpandedScenes:
-  - scene test ver moveing
+  - scene1
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
@@ -429,9 +429,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.65306413, y: 0.12197163, z: 0.0390625}
+    m_Target: {x: 12.895347, y: -13.678982, z: -2.5625}
     speed: 2
-    m_Value: {x: -0.65306413, y: 0.12197163, z: 0.0390625}
+    m_Value: {x: 12.895347, y: -13.678982, z: -2.5625}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -459,9 +459,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 12.513657
+    m_Target: 274.99094
     speed: 2
-    m_Value: 12.513657
+    m_Value: 274.99094
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -633,19 +633,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/health resources
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/health resources
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\work\Test inventory c copy
+  m_LastProjectPath: D:\aekky\work\Test inventory c copy
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: 5a2f0000
-    m_LastClickedID: 12122
-    m_ExpandedIDs: 00000000ae270000e42700004a28000076280000782800008c2800009c290000ba2a0000bc2a0000be2a0000c02a0000c22a0000c42a0000f82d00002c2f000000ca9a3bffffff7f
+    m_SelectedIDs: be270000
+    m_LastClickedID: 10174
+    m_ExpandedIDs: 00000000be2700001828000094280000c6280000c8280000e2280000ac2900000e2a0000342a0000e62a0000e82a0000ea2a0000ec2a0000ee2a0000f02a000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -673,7 +673,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000ae270000e42700004a280000782800008c2800009c290000ba2a0000bc2a0000be2a0000c02a0000c22a0000c42a0000
+    m_ExpandedIDs: 00000000be2700001828000094280000c6280000c8280000e2280000ac2900000e2a0000342a0000e62a0000e82a0000ea2a0000ec2a0000ee2a0000f02a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -811,7 +811,7 @@ MonoBehaviour:
     width: 275
     height: 710
   m_PersistentViewDataDictionary: {fileID: 0}
-  m_ScrollPosition: {x: 0, y: 255.95508}
+  m_ScrollPosition: {x: 0, y: 0}
   m_InspectorMode: 0
   m_PreviewResizer:
     m_CachedPref: 100

@@ -1,0 +1,3 @@
+PG;what project are you doing?;0;R
+GF;lets say we are doing the math project.;0;L
+Player;Continue:scene,15

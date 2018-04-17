@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/3 person ver_/scene test ver moveing.unity
+- path: D:/work2.0/Test inventory c copy/Assets/Newday/scene1.unity
   isLoaded: 1
   isActive: 1

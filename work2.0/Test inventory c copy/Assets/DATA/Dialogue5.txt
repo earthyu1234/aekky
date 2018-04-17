@@ -1,0 +1,3 @@
+PG;Like I am going to believe that.;2;R
+PG;lets see if there are any useful things here....;4;R
+Player;Continue:scene,7
