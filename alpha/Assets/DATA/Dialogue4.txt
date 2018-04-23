@@ -1,0 +1,3 @@
+GF;Just discussing about work. By the way, what are you finding? Should I help?;0;L
+PG;a USB. It is not here. I may leave it at another room.;0;R
+Player;Continue:scene,3

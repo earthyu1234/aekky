@@ -1,0 +1,8 @@
+PG;Then why didnt you break up with me. Why do you have to keep it like this?;3;R
+GF;For someone like you, I think it will be a problem if Im breaking up. Plus its fun to see you like this.;2;L
+LO;What a scene......;0;L
+PG;Then thanks for being with someone like me.;3;R
+GF;.........;3;L
+PG;If you said that breaking up with me is a trouble.;3;R
+PG;Then if Im ..not here... anymore its going to be ok. Right?;7;R
+Player;Continue:scene,30

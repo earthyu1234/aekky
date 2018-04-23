@@ -1,0 +1,6 @@
+GF;Its easier. Plus you dont have to worry about where Im going.;0;L
+PG;But you are a women. You should not be here alone with another guy.;2;R
+LO; Or you want Claire to go somewhere else alone with another guy?;2;L
+GF;Lloyds and I  are only discuss about work. Why do you have to be skepticism, Ace?;3;L
+PG;Just discuss about work. Really?;2;R
+Player;Continue:scene,18

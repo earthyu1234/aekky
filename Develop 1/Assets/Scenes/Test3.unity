@@ -492,7 +492,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd0b7c05be4ac45468d6e5438f5c89d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  loadToColor: {r: 0, g: 0, b: 0, a: 1}
 --- !u!4 &475821424
 Transform:
   m_ObjectHideFlags: 0
@@ -860,7 +859,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   image: {fileID: 185122439}
-  loadToColor: {r: 1, g: 1, b: 1, a: 1}
+  loadToColor: {r: 0, g: 0, b: 0, a: 1}
 --- !u!61 &1300766848
 BoxCollider2D:
   m_ObjectHideFlags: 0

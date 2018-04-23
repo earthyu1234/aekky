@@ -1,0 +1,187 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Newday/scene0.unity
+    guid: 4b70046a24befa84bb5c26b165716fe0
+  - enabled: 1
+    path: Assets/Newday/scene1.unity
+    guid: 79386828030df1d4ca3283520fd15266
+  - enabled: 1
+    path: Assets/Newday/scene2.unity
+    guid: 93b50820398c78b48aed80ce1a3ea82a
+  - enabled: 1
+    path: Assets/Newday/scene3.unity
+    guid: 108f0d178f4bdd146bc3e8500479ab47
+  - enabled: 1
+    path: Assets/Newday/scene4.unity
+    guid: 36e714d36646f5b43b200a9807a1c0d0
+  - enabled: 1
+    path: Assets/Newday/scene5.unity
+    guid: 8ab3c8c0636234948bf743d40f9849a6
+  - enabled: 1
+    path: Assets/Newday/scene6.unity
+    guid: 58e6763310502f441951d421942d0dc1
+  - enabled: 1
+    path: Assets/Newday/scene7.unity
+    guid: bf14cc5dfb948f449935152f18b64f03
+  - enabled: 1
+    path: Assets/Newday/scene8.unity
+    guid: c7b5ac9844064f44c999f144bf17a71c
+  - enabled: 1
+    path: Assets/Newday/scene9.unity
+    guid: f278309b2c8909b478796823c87bbbe5
+  - enabled: 1
+    path: Assets/Newday/scene10.unity
+    guid: f6db7412362315447aecd08843f621f6
+  - enabled: 1
+    path: Assets/Newday/scene11.unity
+    guid: c325e0b76a9759748ae69f49ad30d8b2
+  - enabled: 1
+    path: Assets/Newday/scene12.unity
+    guid: 545788b38e2af8544b473b96a68a4d22
+  - enabled: 1
+    path: Assets/Newday/scene13.unity
+    guid: c32d4d821c5b5f648b16fbd409507c0f
+  - enabled: 1
+    path: Assets/Newday/scene16.unity
+    guid: ae054567041e41841bc0a35f2bbfaaac
+  - enabled: 1
+    path: Assets/Newday/scene14.unity
+    guid: 9660cb711df35d1458efab807382659a
+  - enabled: 1
+    path: Assets/Newday/scene15.unity
+    guid: 5ace70c535f9b66448f2f4055f1944ea
+  - enabled: 1
+    path: Assets/Newday/scene17.unity
+    guid: cbf12f4b5ea62574390b2dee70af013b
+  - enabled: 1
+    path: Assets/Newday/scene19.unity
+    guid: 28dee74ca11fc04469f2c01db7b373c6
+  - enabled: 1
+    path: Assets/Newday/scene18.unity
+    guid: 3e853bd8fb394f94a8fd9dbeb5d4d7a7
+  - enabled: 1
+    path: Assets/Newday/scene20.unity
+    guid: 2ffadb493761bee4989bedac2d7f2be4
+  - enabled: 1
+    path: Assets/Newday/scene21.unity
+    guid: 91027641976efbb4fa265a25af53797a
+  - enabled: 0
+    path: 
+    guid: 1dd69a6b67891e1418a0bcd7445b3409
+  - enabled: 1
+    path: Assets/Newday/scene22.unity
+    guid: c624135c8a60ab8438f526ec8fc55412
+  - enabled: 1
+    path: Assets/Newday/scene23.unity
+    guid: 417ad20ed8eec8b4a8c7d733fc8b29e8
+  - enabled: 1
+    path: Assets/Newday/scene24.unity
+    guid: 8a8131957f3cef845bb2935f0ae03082
+  - enabled: 1
+    path: Assets/Newday/scene25.unity
+    guid: e3933d7ca918d6749b236020b54a565a
+  - enabled: 1
+    path: Assets/Newday/scene26.unity
+    guid: a2738367acd5a7247ac3fefe656ea951
+  - enabled: 1
+    path: Assets/Newday/scene27.unity
+    guid: f55f592b4de29044d8dcde2a1e384394
+  - enabled: 1
+    path: Assets/Newday/scene29.unity
+    guid: b3167594554208f46b3988e6acca2015
+  - enabled: 1
+    path: Assets/Newday/scene28.unity
+    guid: f0d69d2726dee2a4b914132d4d951963
+  - enabled: 1
+    path: Assets/Newday/scene30.unity
+    guid: 45e8de35ad94fa34fbde0f0b1ab1c8ad

@@ -25,7 +25,7 @@ public class ClickG : MonoBehaviour {
 	{
 
 	    nameofobj = gameObject.name;
-		Destroy (gameObject);
+		
 		Next.active = !Next.active;
 
 

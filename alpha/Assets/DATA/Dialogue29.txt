@@ -1,0 +1,9 @@
+PG;Shouldnt you be ashamed that you are cheating!?;3;R
+GF;How childish. I did not break up with you because I just feel pity.;3;L
+LO;So you didnt realise that Claire has enough of your innocent huh.;1;L
+PG;That none of your business!!;6;R
+LO;Why not? Actually you are the one that should stop.;3;L
+PG;........;6;R
+LO;You should be happy that Claire is once dating with a person like you.;3;L
+PG;Just shut up already.;6;R
+Player;Continue:scene,13

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Newday/scene21.unity
+  isLoaded: 1
+  isActive: 1
