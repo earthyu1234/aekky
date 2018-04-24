@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Newday/scene21.unity
+- path: Assets/Newday/scene30.unity
   isLoaded: 1
   isActive: 1

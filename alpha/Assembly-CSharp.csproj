@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{6551CFAE-1FE0-85BC-0DE1-4D964A08C424}</ProjectGuid>
+    <ProjectGuid>{24D2D8EB-FA5F-3990-CAEA-0D5F3522EACC}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -58,33 +58,61 @@
      <Compile Include="Assets\Scripts\Audioscripts\BGSoundScript.cs" />
      <Compile Include="Assets\Scripts\ButtonBehaviour.cs" />
      <Compile Include="Assets\Scripts\ButtonHandler.cs" />
+     <Compile Include="Assets\Scripts\ClickG.cs" />
      <Compile Include="Assets\Scripts\Countdown.cs" />
+     <Compile Include="Assets\Scripts\DemoScript.cs" />
+     <Compile Include="Assets\Scripts\Destorything.cs" />
      <Compile Include="Assets\Scripts\DisplayImage.cs" />
+     <Compile Include="Assets\Scripts\Displayyyyya.cs" />
+     <Compile Include="Assets\Scripts\Dissssssss.cs" />
      <Compile Include="Assets\Scripts\DynamicObject.cs" />
+     <Compile Include="Assets\Scripts\Fader.cs" />
      <Compile Include="Assets\Scripts\IInteractable.cs" />
+     <Compile Include="Assets\Scripts\ImUp.cs" />
+     <Compile Include="Assets\Scripts\Initiate.cs" />
      <Compile Include="Assets\Scripts\Interact.cs" />
      <Compile Include="Assets\Scripts\Inventory.cs" />
      <Compile Include="Assets\Scripts\Levelmaneger.cs" />
      <Compile Include="Assets\Scripts\ObjectsManage.cs" />
+     <Compile Include="Assets\Scripts\Parallax.cs" />
+     <Compile Include="Assets\Scripts\Parallex2.cs" />
+     <Compile Include="Assets\Scripts\picchange.cs" />
      <Compile Include="Assets\Scripts\PickUpItem.cs" />
      <Compile Include="Assets\Scripts\Slot.cs" />
+     <Compile Include="Assets\Scripts\Timedestory.cs" />
      <Compile Include="Assets\Scripts\UIDisplayer.cs" />
+     <Compile Include="Assets\Scripts\unbreak.cs" />
      <Compile Include="Assets\Scripts\ZoomInObject.cs" />
+     <Compile Include="Assets\Scripts\zzz\script\animationtrigger.cs" />
+     <Compile Include="Assets\Scripts\zzz\script\Click.cs" />
+     <Compile Include="Assets\Scripts\zzz\script\collectobject.cs" />
+     <Compile Include="Assets\Scripts\zzz\script\Countdowntime.cs" />
+     <Compile Include="Assets\Scripts\zzz\script\destroy.cs" />
+     <Compile Include="Assets\Scripts\zzz\script\flip.cs" />
+     <Compile Include="Assets\Scripts\zzz\script\FreezeZ.cs" />
+     <Compile Include="Assets\Scripts\zzz\script\Levelmanager.cs" />
+     <Compile Include="Assets\Scripts\zzz\script\PlayerMove.cs" />
+     <Compile Include="Assets\Scripts\zzz\script\Triggerenter.cs" />
      <None Include="Assets\DATA\Dialogue2.txt" />
      <None Include="Assets\DATA\Test dialogue.txt" />
      <None Include="Assets\DATA\Dialogue22.txt" />
      <None Include="Assets\DATA\Dialogue25.txt" />
+     <None Include="Assets\DATA\Dialogue10.txt" />
      <None Include="Assets\DATA\Dialogue13.txt" />
      <None Include="Assets\DATA\Dialogue16.txt" />
-     <None Include="Assets\DATA\Dialogue1.txt" />
+     <None Include="Assets\DATA\Dialogue14.txt" />
+     <None Include="Assets\DATA\Dialogue27.txt" />
      <None Include="Assets\DATA\Dialogue18.txt" />
+     <None Include="Assets\DATA\Dialogue29.txt" />
      <None Include="Assets\DATA\Dialogue4.txt" />
      <None Include="Assets\DATA\Dialogue8.txt" />
      <None Include="Assets\DATA\Dialogue26.txt" />
      <None Include="Assets\DATA\Dialogue24.txt" />
      <None Include="Assets\DATA\Dialogue20.txt" />
+     <None Include="Assets\DATA\Dialogue5.txt" />
      <None Include="Assets\DATA\Dialogue21.txt" />
      <None Include="Assets\DATA\Dialogue17.txt" />
+     <None Include="Assets\DATA\Dialogue28.txt" />
      <None Include="Assets\DATA\Dialogue9.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>

@@ -185,3 +185,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Newday/scene30.unity
     guid: 45e8de35ad94fa34fbde0f0b1ab1c8ad
+  - enabled: 1
+    path: Assets/Newday/scene31.unity
+    guid: f8a6082a9f238434d95bba6b65d702e9
