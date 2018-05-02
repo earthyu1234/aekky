@@ -61,6 +61,7 @@
      <Compile Include="Assets\Scripts\ClickG.cs" />
      <Compile Include="Assets\Scripts\Countdown.cs" />
      <Compile Include="Assets\Scripts\DemoScript.cs" />
+     <Compile Include="Assets\Scripts\DestoryOnClick.cs" />
      <Compile Include="Assets\Scripts\Destorything.cs" />
      <Compile Include="Assets\Scripts\DisplayImage.cs" />
      <Compile Include="Assets\Scripts\Displayyyyya.cs" />
@@ -79,6 +80,7 @@
      <Compile Include="Assets\Scripts\picchange.cs" />
      <Compile Include="Assets\Scripts\PickUpItem.cs" />
      <Compile Include="Assets\Scripts\Slot.cs" />
+     <Compile Include="Assets\Scripts\StartButton.cs" />
      <Compile Include="Assets\Scripts\Timedestory.cs" />
      <Compile Include="Assets\Scripts\UIDisplayer.cs" />
      <Compile Include="Assets\Scripts\unbreak.cs" />
