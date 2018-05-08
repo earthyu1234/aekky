@@ -1,2 +1,0 @@
-PG;I know you guy have been going out for a while.;6;R
-Player;Continue:scene,18

@@ -1,3 +1,0 @@
-PG;She should already come back by now.;0;R
-PG;Will she love this present?;1;R
-Player;Continue:scene,3

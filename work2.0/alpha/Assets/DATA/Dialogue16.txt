@@ -1,0 +1,3 @@
+GF;I thought you said you will stay at the university today. What’s happened?;2;L
+PG;Oh, I come here to pick up things that I forgot.;2;R
+Player;Continue:scene,17

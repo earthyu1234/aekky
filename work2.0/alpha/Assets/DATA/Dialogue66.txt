@@ -1,0 +1,4 @@
+PG;You are a woman. You should not be here alone with another guy. ;1;R
+LO;Or you want Claire to go somewhere else alone with another guy?;1;L
+GF;Lloyds and I  only discuss work. Why do you have to be skepticism, Ace?;1;L
+Player;Continue:scene,67

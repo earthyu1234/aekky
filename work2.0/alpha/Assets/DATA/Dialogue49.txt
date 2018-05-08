@@ -1,0 +1,6 @@
+PG;(Is that how you think about me?);1;R
+PG;(Fine then!);1;R
+PG;Hey, today is your birthday right?;1;R
+GF;Oh yes, I totally forget.;1;L
+PG;I’m sorry for causing a problem today.;1;R
+Player;Continue:scene,50

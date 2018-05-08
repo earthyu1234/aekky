@@ -1,6 +1,0 @@
-PG;.........;2;R
-PG;So I was a fool for the whole time.......;6;R
-PG;She said she is gonna break up with me.;6;R
-PG;Well..;5;R
-PG;Why we do not end everything today?;4;R
-Player;Continue:scene,10

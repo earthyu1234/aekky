@@ -1,7 +1,0 @@
-PG;Maybe, I should try call her.;4;R
-PG;*Phone call the girlfriend*;8;R
-PG;Hey, your friend calls me and said she cannot contact you.;0;R
-PG;She is waiting outside the house, having something to give.;0;R
-GF;Something to give me?;5;L
-PG;I do not know, she did not say anything. I gotta go now. Bye.;0;R
-Player;Continue:scene,18

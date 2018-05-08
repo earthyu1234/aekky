@@ -1,2 +1,0 @@
-PG;So he also come here today huh......;2;R
-Player;Continue:scene,1

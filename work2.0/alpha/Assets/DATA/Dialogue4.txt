@@ -1,0 +1,3 @@
+PG;I hope she will like it.;0;R
+PG; Hey, let’s put you at the Bedroom and surprise her.;0;R
+Player;Continue:scene,5

@@ -1,0 +1,2 @@
+PG;(the wound still hurt);1;R
+Player;Continue:scene,26

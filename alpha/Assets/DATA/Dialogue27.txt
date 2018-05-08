@@ -1,4 +1,0 @@
-PG;Do you think Im stupid? Both of you are dating. What about me?;3;R
-GF;Look who you are saying. Then what about me? You only care about your work.;2;L
-LO;If you really care about her. She wouldnt have to go out with another guys.;2;L
-Player;Continue:scene,29

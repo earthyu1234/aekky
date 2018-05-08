@@ -1,5 +1,0 @@
-GF;Did you find your stuff?;0;L
-PG;Yeah.;0;R
-PG; By the way, you two seem really close lately. Does the project that big that you guys has to meet for the discussion?.;2;R
-LO;Sorry if Im disturb you.;2;L
-Player;Continue:scene,15

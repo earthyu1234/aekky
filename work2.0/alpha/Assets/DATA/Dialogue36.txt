@@ -1,0 +1,7 @@
+PG;Hey, I’m sorry but....;1;R
+PG;I guess i will keep you for myself.;1;R
+PG;Got dumped......;1;R
+PG;......... * He hugs the doll start to cry*;1;R
+PG;Like me........;1;R
+PG;Today is not supposed to be like this.;1;R
+Player;Continue:scene,38

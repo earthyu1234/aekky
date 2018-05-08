@@ -1,0 +1,4 @@
+PG;I don’t want to do this.;1;R
+PG;But you are the one who start it first.;1;R
+PG;you left me no choice...;1;R
+Player;Continue:scene,59

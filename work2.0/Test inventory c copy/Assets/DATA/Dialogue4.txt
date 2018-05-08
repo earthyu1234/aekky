@@ -1,3 +1,0 @@
-GF;Oh we have to talk about the project. By the way dont you have to go to university today?;0;L
-PG;I forgot something so I come back to pick it up.;1;R
-Player;Continue:scene,3

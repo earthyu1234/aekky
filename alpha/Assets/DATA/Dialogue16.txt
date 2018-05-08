@@ -1,6 +1,0 @@
-PG;But i think you guys meet up is too often.;2;R
-GF;Ace, you are start to being childish. By the way, isnt it you that busy with your work lately.;3;L
-PG;Its not all my fault. You also said that you were busy. Actually you are going out with him right?;2;R
-LO;Hey, cant you just separate between work and personal? Are you going to said that any guy who talk to Clair is her lover?;1;L
-GF;You are being skepticism. We are just doing work. Lloyds is my friend.;3;L
-Player;Continue:scene,18

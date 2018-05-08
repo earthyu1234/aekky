@@ -1,0 +1,10 @@
+PG;The good guy can also turn bad. At least you should tell me.;1;R
+GF; Ace, You start being childish. And you talk bad about Lloyds while he is sitting here?;1;L
+PG;.......;1;R
+GF;You should have some manner Ace.;1;L
+GF;Good guy can also turn bad, you said. You are also a guy.;1;L
+GF;If you said I shouldnt trust Lloyds then I also shouldnt trust you huh? ;1;L
+PG;You are not cheating on me right?;1;R
+GF;Ace. Can you please cut it off?;1;L
+GF;Lloyds is my friend. What with you today!?;1;L
+Player;Continue:scene,53

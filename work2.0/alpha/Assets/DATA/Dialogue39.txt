@@ -1,0 +1,5 @@
+PG;now.....;1;R
+PG;I have baking soda and knife.;1;R
+PG;but I can carry only one thing.;1;R
+PG;But which is the i want to choose?;1;R
+Player;Continue:scene,40

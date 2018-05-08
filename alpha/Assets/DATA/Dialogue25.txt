@@ -1,3 +1,0 @@
-PG; Discussing about work. Like Im gonna believe that.;2;R
-PG;Anyway, I have to make it clear today. If anything bad happens Im sure I cant fight that guy. I should find something to protect myself.;4;R
-Player;Continue:scene,24

@@ -1,6 +1,0 @@
-PG;Really? i will give you one more chance.;6;R
-GF;huh? what are you talking about?;3;L
-PG;You liar! you know what Im talking about!;6;R
-LO;hey! you not suppose to talk with a lady like that!;1;L
-PG;this is non of your business!!;6;R
-Player;Continue:scene,17

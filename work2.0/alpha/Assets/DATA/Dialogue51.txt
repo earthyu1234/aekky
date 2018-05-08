@@ -1,0 +1,12 @@
+LO;This taste weird...;1;L
+GF;!?;1;L
+PG;How does it feel?;1;R
+PG; I know you guys have been cheating on me.;1;R
+PG;I bet that you think I’m stupid and not knowing anything.;1;R
+GF;...........;1;L
+PG;Well, you lost this game.;1;R
+GF;S...o...r..r...y...;1;L
+PG;Then you should not do it in the first place.;1;R
+PG;If you guys love this other this much.Then continue your love in hell.;1;R
+PG;Goodbye.;1;R
+Player;Continue:scene,52

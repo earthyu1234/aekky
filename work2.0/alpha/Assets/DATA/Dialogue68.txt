@@ -1,0 +1,15 @@
+PG;I know what happens. Please tell me the truth. ;1;R
+GF;What do you mean?;1;L
+PG;I know both of you are dating. We can settle this, I don’t want to cause any problem. ;1;R
+GF;So you want me to choose? ;1;L
+PG;......yeah... ;1;R
+GF;Fine, I don’t choose you.;1;L
+PG;......!?;1;R
+LO;Woahh. Did you see that she said it out right away? You should know by now that you don't deserve her.;1;L
+PG;Then why didn’t you break up with me. Why do you have to keep it like this? ;1;R
+GF;For someone like you, I think it will be a problem if I’m breaking up. Plus it’s fun to see you like this.;1;L
+LO;What a scene...;1;L
+GF;But as you said, then let’s break up now.;1;L
+GF;Lloyds, let’s go.;1;L
+PG;Claire!... ;1;R
+Player;Continue:scene,69

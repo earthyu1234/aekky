@@ -1,2 +1,0 @@
-PG;I have to lure her out from the room.;6;R
-Player;Continue:scene,15

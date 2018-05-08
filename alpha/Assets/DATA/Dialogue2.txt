@@ -1,3 +1,0 @@
-PG;This is not my shoes.;2;R
-PG;It is true that I said I was busy and may not come back home today. Claire, do you bring him here everytime you has a chance?;2;R
-Player;Continue:scene,1
