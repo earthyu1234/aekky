@@ -1,9 +1,0 @@
-GF;That guy is cute!;1;L
-PG;Guy? Who???;1;R
-GF;This guy. The teddy.;1;L
-PG;It sure cute.;1;R
-GF;It’s kind of expensive.  I really like him..;1;L
-PG;Then I will buy it for you this birthday.;1;R
-GF;Can’t it be now?;1;L
-PG;This guy will have more meaning to you if you wait. Trust me.;1;R
-Player;Continue:scene,56

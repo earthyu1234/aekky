@@ -1,4 +1,0 @@
-PG;This is just for the worse case.;1;R
-PG;I believe that we can talk. So that it doesnt have to end in a bloody way....;1;R
-PG;Now.. I should go talk to them.;1;R
-Player;Continue:scene,42.1

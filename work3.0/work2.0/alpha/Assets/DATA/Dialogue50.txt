@@ -1,3 +1,0 @@
-PG;Why don’t we celebrate?Let’s cheer;1;R
-PG;.......................;1;R
-Player;Continue:scene,51

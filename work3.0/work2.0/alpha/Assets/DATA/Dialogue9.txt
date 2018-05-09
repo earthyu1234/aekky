@@ -1,2 +1,0 @@
-PG;this could be useful.;4;R
-Player;Continue:scene,10

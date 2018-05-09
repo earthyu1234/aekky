@@ -1,4 +1,0 @@
-PG;......;0;R
-GF;......;0;L
-PG;(So it’s this guy huh.....);0;R
-Player;Continue:scene,15

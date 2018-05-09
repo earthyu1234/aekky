@@ -1,0 +1,5 @@
+PG;All these time. I’m just your trouble huh. ;1;R
+PG;I do everything to make you happy. ;1;R
+PG;But if my existence makes you feel bad. ;1;R
+PG;Then if I’m ‘not here’ anymore it’s going to be ok. Right?;1;R
+Player;Continue:scene,59

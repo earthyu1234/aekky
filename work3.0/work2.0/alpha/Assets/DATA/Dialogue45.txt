@@ -1,5 +1,0 @@
-PG;Still you should not be alone with another a man.;1;R
-GF;huh? why is that?;1;L
-PG;You don’t know what he is going to do.;1;R
-GF;Lloyd is a good man. You just thinking too much.;1;L
-Player;Continue:scene,47

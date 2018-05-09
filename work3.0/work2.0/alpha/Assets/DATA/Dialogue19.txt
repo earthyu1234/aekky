@@ -1,4 +1,0 @@
-PG;What are you doing? ;5;R
-GF;Just discussing work. By the way, what are you finding? Should I help?;4;L
-PG;A USB. It’s not here. I may leave it at another room.;5;R
-Player;continues:scene,20

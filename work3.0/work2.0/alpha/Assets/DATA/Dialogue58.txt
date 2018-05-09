@@ -1,4 +1,0 @@
-PG;I didnt mean to do this.;1;R
-PG;Its just.... Im.....;1;R
-PG;Im...sorry;1;R
-Player;Continue:scene,59

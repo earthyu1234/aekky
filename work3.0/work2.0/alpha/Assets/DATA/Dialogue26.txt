@@ -1,8 +1,0 @@
-GF;What do you mean?;4;L
-PG;I know both of you are dating. We can settle this, I dont want to cause any problem.;2;R
-GF;So you want me to choose?;3;L
-PG;..........;2;R
-GF;Fine, I dont choose you;2;L
-PG;......!!!;2;R
-LO;Woahh. Did you see that she said it out right away. You should know by now that you dont deserve her.;2;L
-Player;Continue:scene,28

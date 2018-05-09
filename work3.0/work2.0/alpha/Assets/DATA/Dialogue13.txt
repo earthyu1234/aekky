@@ -1,7 +1,0 @@
-LO;So what are you going to do?;2;L
-PG;(A guy voice???);5;R
-GF;I don’t know. I think I will tell him soon.;4;L
-LO;The faster the better.;1;L
-GF;I know.;6;L
-PG;(Who is she talking to?);5;R
-Player;Continue:scene,15

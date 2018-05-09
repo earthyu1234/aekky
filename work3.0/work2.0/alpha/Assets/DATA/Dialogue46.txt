@@ -1,9 +1,0 @@
-PG;I know you are doing work but people will misunderstand if they see you bring a guy to the house. Especially when I’m not at home.;1;R
-GF;You are just thinking too much Ace. People like gossiping, why do I have to care.;1;L
-PG;They will look down on you.;1;R
-GF;Ace, you start to annoying me.;1;L
-PG;....but I just.....;1;R
-GF;Sometimes you are still being childish.;1;L
-GF;If people going to gossip be about going out with other guys. There would already gossip about you that I have a boyfriend like this.;1;L
-LO;Claire, calm down.;1;L
-Player;Continue:scene,48

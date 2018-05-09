@@ -1,7 +1,0 @@
-PG;How can does two going to act like nothing happened like this?;1;R
-PG;Do you think I’m stupid!?;1;R
-PG;Got dumped......;1;R
-PG;All the time we spent together.;1;R
-PG; I try to do everything to make you happy.;1;R
-PG;But you just did this to me as a return!? *He throws the doll*;1;R
-Player;Continue:scene,38

@@ -1,0 +1,9 @@
+LO;Can I meet you on the Weekend?;4;L
+GF;Sure!;5;R
+LO;Nice. Let’s meet at Cinema.;4;L
+LO;Let’s talk about the project.;4;L
+GF;Yeah, ‘talk about the project’ lol.;5;R
+LO;See you then!;4;L
+GF;Bye.;5;R
+PG;.........;1;R
+Player;Continue:scene,3

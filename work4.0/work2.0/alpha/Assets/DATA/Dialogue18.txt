@@ -1,0 +1,7 @@
+PG;Is he a ‘project friend’ that you are talking about lately?;5;R
+GF;You mean Lloyds? Yep, we are here to continue the work.;4;L
+GF;Lloyd, this is Ace.;4;L
+LO;Nice to meet you;1;L
+PG;same.;5;R
+PG;I have to go find my USB. It should be in another room.;4;R
+Player;continues:scene,20

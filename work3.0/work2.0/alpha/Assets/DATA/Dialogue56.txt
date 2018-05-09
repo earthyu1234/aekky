@@ -1,3 +1,0 @@
-GF;*laugh* Alright, alright, I’ll wait.;1;L
-GF;Thank you so much Ace. I love you.;1;L
-Player;Continue:scene,57

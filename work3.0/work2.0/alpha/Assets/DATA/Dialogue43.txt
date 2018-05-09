@@ -1,7 +1,0 @@
-PG;Hey, I bring you guys a drink.;1;R
-GF;Thanks.;1;L
-PG;Claire, what kind of project are you doing?;1;R
-GF;Hm?;1;L
-PG;I mean, why you do this project in this house. Not university;1;R
-GF;Why not? Also if Im here you dont have to worry about where I am.;1;L
-Player;Continue:scene,44

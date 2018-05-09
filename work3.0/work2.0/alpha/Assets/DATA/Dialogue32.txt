@@ -1,5 +1,0 @@
-PG;(This is the picture we took together on our first date);1;R
-PG;(The weather was cold but still is a fun trip);1;R
-PG;(I wish to go there again with her.);1;R
-PG;(.............);1;R
-Player;Continue:scene,26.6

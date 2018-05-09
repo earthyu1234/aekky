@@ -1,3 +1,0 @@
-PG;......I heard a voice.;4;R
-PG;Did Claire already come back?;4;R
-Player;Continue:scene,12

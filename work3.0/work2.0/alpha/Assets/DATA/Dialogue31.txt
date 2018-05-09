@@ -1,3 +1,0 @@
-GF;Did you find your stuff?;1;L
-PG;Not yet.;1;R
-Player;Continue:scene,26.6

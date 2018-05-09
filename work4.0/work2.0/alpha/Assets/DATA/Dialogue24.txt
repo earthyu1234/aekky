@@ -1,0 +1,7 @@
+PG;It’s hurt.;5;R
+PG;I’m bleeding.;5;R
+PG;No....no....no.....;4;R
+PG;Today should be a good day but if things turn out like this then I have to make it clear.;5;R
+PG;Just in case anything bad happens I’m sure I can’t fight that guy. ;5;R
+PG;I should find something to protect myself.;5;R
+Player;continues:scene,26

@@ -1,3 +1,0 @@
-PG;This may not look harmful but if the person drinks it in a huge amount.;1;R
-PG;It can burn there throat....;1;R
-Player;Continue:scene,42

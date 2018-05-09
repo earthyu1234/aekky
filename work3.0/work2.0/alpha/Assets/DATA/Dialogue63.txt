@@ -1,7 +1,0 @@
-PG;Person who already has boyfriend won’t bring another guy to their house, alone, while her boyfriend is not there.;1;R
-LO;;1;L
-GF;You shouldn’t have to be rude like that.;1;L
-PG;I’m just saying.;1;R
-GF;Lloyds is just a friend.;1;L
-GF;We met because we have to discuss  work. You are thinking too much.;1;L
-Player;Continue:scene,64

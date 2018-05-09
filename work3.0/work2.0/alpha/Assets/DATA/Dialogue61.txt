@@ -1,5 +1,0 @@
-PG;Hey, Claire. Why do you have to discuss your project here?;1;R
-GF;Hm? Its easier. Plus you don’t have to worry about where I’m going. ;1;L
-PG;You shouldnt do this.;1;R
-GF;What do you mean?;1;L
-Player;Continue:scene,62

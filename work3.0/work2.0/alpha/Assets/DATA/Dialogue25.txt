@@ -1,7 +1,0 @@
-PG;Still they are pissing me off.;2;R
-PG;If he is not here in the first place our relationship will not be ruin like this.;4;R
-PG;Can’t he just death!?;4;R
-PG;........death.........?;4;R
-PG;......kill......?;4;R
-PG;Yeah..... I can make that happen.;4;R
-Player;Continue:scene,26

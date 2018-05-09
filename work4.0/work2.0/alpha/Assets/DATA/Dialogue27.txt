@@ -1,0 +1,6 @@
+PG;Even though this is my house, we choose the furniture together.;3;R
+PG;Claire is the one who bought this clock. At first, I refuse but Claire insists to buy it.;2;R
+PG;She said it was cute.;2;R
+PG;Hm...?;2;R
+PG;Since when that it crack...;2;R
+Player;Continue:scene,26.1

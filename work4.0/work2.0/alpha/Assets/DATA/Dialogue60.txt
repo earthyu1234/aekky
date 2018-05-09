@@ -1,0 +1,3 @@
+PG;I make up my mind. I should go talk to them right now.;1;R
+PG;Remember Ace, this knife is for protecting yourself.;1;R
+Player;Continue:scene,61

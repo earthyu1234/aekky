@@ -1,0 +1,3 @@
+PG;I should wash my face to cool myself down a bit.;3;R
+PG;Hm?;6;R
+Player;Continue:scene,30

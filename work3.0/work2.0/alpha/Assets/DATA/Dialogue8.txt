@@ -1,2 +1,0 @@
-PG;Done!!;1;R
-Player;Continue:scene,9
